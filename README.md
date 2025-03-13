@@ -36,7 +36,7 @@ assignment-Prabhav-Manas/
 2. Open `index.html` in a browser to view the output or view the output in console as some outputs are logged in console
 3. JavaScript logic is written in `script.js`.
 
-### Angular Application
+### Angular Application Assignment (Question 1)
 1. Navigate to the `angularApp` folder.
 2. Run the following commands in the terminal:
    ```sh
