@@ -11,6 +11,9 @@ h1{
   text-align: center;
   margin-bottom: 2rem;
 }
+h2{
+  font-family: cursive;
+}
 .input-container {
   display: flex;
   justify-content: center;
